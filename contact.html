@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact — Fee van Dortmont</title>
+<meta name="description" content="Neem contact op met Fee van Dortmont voor samenwerkingen of vragen.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="nav-inner">
+    <a class="logo" href="index.html"><img src="images/Logo portfolio.png" alt="Fee van Dortmont logo"></a>
+    <nav aria-label="Hoofdnavigatie">
+      <ul class="nav-links" id="navLinks">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="projecten.html">Projecten</a></li>
+        <li><a href="over-mij.html">Over mij</a></li>
+        <li><a href="contact.html" aria-current="page">Contact</a></li>
+      </ul>
+    </nav>
+    <button class="nav-toggle" id="navToggle" aria-expanded="false" aria-controls="navLinks" aria-label="Menu openen">
+      <span></span>
+    </button>
+  </div>
+</header>
+
+<main>
+  <section class="contact-hero section-dark">
+    <img class="floral floral-about on-dark" src="images/Bloem_achtergrond_portfolio.png" alt="" aria-hidden="true">
+    <div class="contact-inner">
+
+      <div>
+        <h1>Laten we<br>samenwerken</h1>
+        <p class="lead">Heb je een project, een vraag of gewoon zin om kennis te maken? Laat het weten — ik hoor graag van je.</p>
+
+        <ul class="contact-list">
+  <li>
+    <span class="label">E-mail</span>
+    <a class="value" href="mailto:feevandortmont@gmail.com">
+      feevandortmont@gmail.com
+    </a>
+  </li>
+
+  <!-- AANGEPAST: ontbrekende <li> toegevoegd -->
+  <li>
+    <span class="label">Locatie</span>
+    <span class="value">Nederland</span>
+  </li>
+</ul>
+      </div>
+
+      <form class="contact-form" id="contactForm" novalidate>
+        <div class="field">
+          <label for="name">Naam</label>
+          <input type="text" id="name" name="name" placeholder="Jouw naam" required>
+        </div>
+        <div class="field">
+          <label for="email">E-mailadres</label>
+          <input type="email" id="email" name="email" placeholder="jouw@email.com" required>
+        </div>
+        <div class="field">
+          <label for="message">Bericht</label>
+          <textarea id="message" name="message" rows="5" placeholder="Vertel me over je project of vraag" required></textarea>
+        </div>
+        <button type="submit" class="btn">Versturen</button>
+        <p class="form-note" id="formNote"></p>
+      </form>
+
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-left">
+      <ul class="footer-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="projecten.html">Projecten</a></li>
+        <li><a href="over-mij.html">Over mij</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+      <p class="footer-meta">&copy; <span id="year"></span> Fee van Dortmont &mdash; Grafisch ontwerper</p>
+    </div>
+  </div>
+</footer>
+
+<script src="js/script.js"></script>
+</body>
+</html>

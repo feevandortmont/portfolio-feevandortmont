@@ -1,0 +1,427 @@
+Stream 2:
+FEE VAN DORTMONT GROEIDOCUMENT COLLECTIEF 5
+Stream 7:
+2 _________ +31 6 15516217 _________ _________ +31 6 15516217 _________  
+Om te ontdekken wat voor ontwerper ik ben, ben ik aan het begin van het project aan de slag gegaan met vragenlijsten en heb ik aan 
+mensen om mij heen gevraagd hoe zij mij zien. Ook heb ik al mijn projecten van de afgelopen jaren bekeken om te zien wat voor stijl en 
+kleuren ik vaak gebruik en wat mijn werk nou echt kenmerkt.
+Hieruit kwam naar voren dat de zin \221ontwerp doordacht tot in detail\222 het beste bij mij past. Dit betekent niet dat alles heel druk of 
+ingewikkeld moet zijn, maar juist dat over elk klein dingetje goed is nagedacht. Achter elke kleur, vorm en lijn zit een duidelijke reden of 
+een verhaal. Mensen gaven aan dat mijn stijl rustig, stijlvol en organisch is, maar nooit t\351 strak.
+Daarom heb ik een moodboard gemaakt met beelden en kleuren die echt bij mij passen, zoals donkerblauw, zachte grijstinten en wit. 
+Voor mijn logo heb ik gekozen voor een elegante letter gecombineerd met een botanische illustratie. Iedereen die dit zag, zei meteen: 
+\223Dit is echt hoe wij jou zien.\224
+Deze keuzes laten direct zien waar ik als ontwerper voor sta. Het geeft mijn portfolio een duidelijke eigen identiteit die rust uitstraalt en 
+laat zien dat ik alles met veel aandacht ontwerp.
+WIE BEN IK ALS ONTWERPER
+FEE VAN DORTMONT
+GRAFISCH ONTWERPER
+feevandortmont@gmail.com
+Ontwerp doordacht 
+FEE VAN DORTMONT
+GRAFISCH ONTWERPER
+feevandortmont@gmail.com
+Ontwerp doordacht 
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Om de stijl van mijn portfolio te bepalen zocht ik inspiratie op Pinterest en 
+andere websites en bekeek ik hoe andere ontwerpers hun werk presenteren. 
+Ik merkte dat ik een stijl zocht die minimalistisch en stijlvol is, maar niet te strak, 
+met een artistieke en persoonlijke toets. 
+Daarom koos ik ervoor om de illustraties uit mijn logo ook in de website te 
+verwerken en het kleurenpalet uit mijn moodboard te gebruiken. 
+Hierdoor voelt het portfolio herkenbaar als van mij en sluit het aan bij de 
+ontwerper die ik wil laten zien.
+INSPIRATIE
+Stream 27:
+COLLECTIEF 1  |  2025 / 2026 KRITISCH STELLING NEMEN  \225   \225   \225   \225     \225   IK HEB DIT GEDAAN \205    \225   DAT LEVERDE DIT INZICHT \205    \225   DAAROM MAAKTE IK DEZE KEUZE \205    \225   DAT BEANTWOORDT HET  ONTWERPVRAAGSTUK OMDAT \205    K
+Perspectieven verkennen 
+Positioneren & design briefen 
+Keuzes maken & onderbouwen 
+Wanneer je gedurende je ontwerpproces en 
+met je ontwerp: 
+Het vraagstuk vanuit verschillende 
+perspectieven verkent en hier inzicht in 
+geeft. 
+Betrokkenen, hun belangen en behoeftes 
+onderzoekt en in kaart kunt brengen. 
+Een onderbouwde positie op het vraagstuk 
+inneemt als basis voor je ontwerp. 
+Steeds onderbouwde keuzes maakt die 
+bijdragen aan het beoogde ontwerpdoel.
+Stream 39:
+3
+Voordat ik de website ging bouwen, ben ik gaan experimenteren met de indeling. Ik heb op Pinterest en andere 
+sites gezocht naar portfolio\222s met een minimalistische en artistieke stijl. Daarna ben ik met de hand wireframes 
+gaan schetsen om verschillende manieren te testen waarop je tekst, foto\222s en projecten op de pagina kunt 
+neerzetten en heb ook visualisaties gemaakt met InDesign.
+Tijdens het schetsen ontdekte ik dat een standaard website-grid al snel te statisch of generiek aanvoelde. Ik wilde 
+een balans vinden tussen rust en een artistieke \221artsy\222 touch, zonder dat de gebruikerservaring ingewikkeld werd. 
+De website moest intu\357tief navigeren, maar tegelijkertijd aanvoelen als een zorgvuldig vormgegeven digitaal 
+portfolio waarin projecten de ruimte krijgen om te ademen.
+Op basis van deze schetsen heb ik gekozen voor een asymmetrische, open compositie. Ik besloot om de 
+vlakken rust te cre\353ren rondom de projectbeelden en tekstblokken.  
+Door eerst veel verschillende indelingen te schetsen en te testen, vond ik een logische structuur 
+voor de bezoeker. Dit experiment hielp om de website visueel aantrekkelijk te maken zonder dat de 
+gebruiksvriendelijkheid verloren ging. Dit schetsen zorgde er ook voor dat de structuur van het portfolio zelf al 
+aantoont hoe belangrijk doordachte keuzes en compositie voor mij zijn als ontwerper
+INDELING PORTFOLIO
+Stream 47:
+4
+Nadat de schetsen klaar waren, ben ik de website daadwerkelijk gaan bouwen met behulp van 
+vibecoding en de voorbeeld elementen van hoe ik wil dat het eruitziet. Ik heb de lay-out met 
+vibecoding digitaal opgebouwd, interactieve knoppen toegevoegd en een werkend contactformulier 
+gemaakt. Vervolgens heb ik vier projecten geselecteerd en helemaal uitgewerkt voor op de site, 
+waaronder het project Smeltende sieraden.
+hoe meer referentie je toevoegt hoe beter het resultaat is van de website.  En hoe beter ik dus mijn 
+identiteit kon vertalen in een prompt hoe persoonlijker mijn portfolio werd.
+Ik heb bewust gekozen om mijn portfolio te beperken tot slechts vier kernprojecten. Deze projecten 
+laten het beste zien waar ik voor sta: concepten waarin aan elk detail betekenis is gegeven en waarin 
+diepgang centraal staat. Door de illustraties subtiel over de donkere en lichte achtergronden te laten 
+vloeien, kreeg de website karakter. En dit sloot ook aan bij het inspiratie en het moodboard wat ik al 
+eerder had gemaakt om mijn identiteid visueel te maken.
+Door de website echt te bouwen en in te vullen met mijn beste werk, had ik een werkend portfolio 
+waarmee ik kon aantonen wat voor ontwerpen ik maak in wat mijn identiteit is als ontwerper.
+PORTFOLIO MET AI
+Stream 54:
+COLLECTIEF 1  |  2025 / 2026 MAKEN Beleefbaar maken   \225   \225   \225   \225   IK HEB DIT GEDAAN \205    \225   DAT LEVERDE DIT INZICHT \205    \225   DAAROM MAAKTE IK DEZE KEUZE \205    \225   DAT BEANTWOORDT HET  ONTWERPVRAAGSTUK OMDAT \205    M
+Presenteren & exposeren 
+Valideren & verantwoorden 
+Wanneer je eindontwerp: 
+Beleefbaar gemaakt is met oog voor 
+afwerking en detail. 
+In de beoogde context zichtbaar 
+relevantie. 
+Op samenhangende en verzorgde wijze 
+gecommuniceerd en ge\353xposeerd is.
+Stream 71:
+5
+Toen de basis van de website stond, heb ik de site ge\374pload naar GitHub en een openbare link 
+aangemaakt, zodat anderen hem online konden bezoeken en testen. Daarna heb ik meerdere keren 
+feedback gevraagd aan docenten, klasgenoten en vrienden over het gebruik en de uitstraling van de 
+site.
+Uit die feedback kwamen duidelijke verbeterpunten: de tekstplaatsing was op sommige plekken nog 
+niet handig, het logo kon beter geplaatst worden voor herkenbaarheid en de vlakverdeling van de 
+afbeeldingen en het contactformulier liep nog niet helemaal lekker. Omdat ik best perfectionistisch ben, 
+merkte ik dat ik heel lang bleef doorwerken en schaven om het precies goed te krijgen.
+In plaats van vast te lopen in mijn eigen perfectionisme, heb ik de feedbacklijst stap voor stap afgewerkt. 
+Ik heb afbeeldingen verplaatst, de teksten opnieuw ingedeeld, het logo een vaste plek gegeven en het 
+contactformulier functioneler gemaakt.
+Door mijn site online te zetten via GitHub en actief feedback op te halen en te verwerken, heb ik mijn 
+werk professioneel laten testen door gebruikers. Hierdoor is de website niet alleen mooi geworden, 
+maar werkt hij ook technisch goed voor iedereen die hem bezoekt.
+Stream 73:
+6
+Ik zag in dat het bedrijf een heleboel losse onderdelen had \(zoals De Bevrijding, podcasts en aparte velden\taal geen kaders waren 
+voor de opdracht. De opdrachtgever zei tijdens het eerste gesprek ook letterlijk tegen ons: \223Ik weet dat het vaag is, maar dat is juist de bedoeling; 
+ik wil dat jullie op je eigen intu\357tie afgaan.\224 Omdat dit niet in mijn aard ligt, ben ik zelf kader gaan maken voor de opdracht om vervolgens meer met 
+mijn intuitie te kunnen werken.
+Ik besloot om voor mezelf een duidelijke ontwerpvraag op te stellen: We moeten iets overkoepelends ontwerpen dat alle verschillende velden en 
+initiatieven van Ripple Media House met elkaar verbindt en zichtbaar maakt.
+Door de vage opdracht zelf af te bakenen en uit te tekenen, kreeg is eindelijk houvast en een duidelijke ontwerprichting waar ik mee verder konden.
+DEBRIEF
+Ik ben ook gaan onderzoeken wie nou eigenlijk de doelgroep van Ripple Media House is. 
+Tijdens het uitzoeken bleek dat de opdrachtgever eigenlijk geen vaste doelgroep had zoals een 
+vooral 35-plussers zijn. Daarnaast was de drempel om mee te doen enorm hoog: je betaalt 
+voor De Bevrijding meteen \200 3.500,- voor een heel leven, z\363nder dat er een proefperiode is om 
+te kijken of het wel bij je past.
+Daarom koos ik ervoor om de doelgroep te zien als mensen die openstaan voor het zoeken 
+naar jezelf en nieuwe perspectieven \(gedachte van de Bevrijding\t concept moest een 
+tussenstap worden waar iedereen, ongeacht leeftijd, kennis kan maken met het bedrijf.
+Dit inzicht hielp ons om een concept te bedenken dat de drempel van \200 3.500,- weghaalt en 
+mensen eerst op een veilige manier laat ontdekken of Ripple Media House iets voor hen is.
+DOELGROEP
+Aan het begin van het project mochten we uit zeven opdrachtgevers onze top drie kiezen. Mijn nummer \351\351n was Ripple Media House. De opdracht leek me best 
+vaag en deed me erg denken aan discursive design. Omdat ik dat vak erg leuk vind en het goed aansloot bij mijn portfolio, wilde ik mezelf die uitdaging geven 
+om iets te maken uit alle info die we kregen, heb ik de informatie samengevat en een debrief getekend van hoe het bedrijf eruitziet.
+Stream 79:
+7
+Om tot de kern van de opdracht te komen, ben ik uitgegaan van twee belangrijke woorden het bedrijf: \221beweging\222 
+en \221verbinding\222 \(was ook terug te zien in de website van de bevrijding\ndom deze woorden heb ik een mindmap 
+gemaakt met allemaal associaties, zoals familie, gesprekken, trauma, muziek, natuur en herinneringen.
+Wat meteen opviel bij het associ\353ren, was dat bij beide woorden het element water naar boven kwam. Water 
+verbindt, wij mensen bestaan zelf voor een groot deel uit water en water kan geluid en trillingen verplaatsen. Ook 
+zocht ik naar de betekenis van ripple: een rimpeling in het water die zich steeds verder uitbreidt.
+Ik koos er daarom voor om water als h\351t centrale thema en materiaal voor ons concept te gebruiken.
+Dit beantwoordt het vraagstuk omdat water op een hele natuurlijke manier symbool staat voor verhalen delen, 
+beweging in gang zetten en mensen met elkaar verbinden.
+MINDMAP
+Ik ontdekte dat de kerngedachte van De Bevrijding is dat je gedurende je leven allerlei meningen, rollen en 
+overtuigingen opbouwt. Bij De Bevrijding pel je die lagen als het ware weer van jezelf af tot je bij je pure kern 
+komt \(\223van binnen ben je goud\224\t een frisse blik naar de wereld kunt kijken.   
+Ik koos er later in het proces voor om deze symboliek van \221afpellen\222 en maskers afzetten een centrale rol te 
+geven in de ervaring die we gingen ontwerpen.   
+Hierdoor werd het idee niet zomaar een leuk kunstje, maar sloot het inhoudelijk naadloos aan bij wat de 
+opdrachtgever met haar community wil bereiken.   
+DE BERIJDING
+\223Treed binnen, 
+ontvang, 
+laat los en geef door\224
+Stream 80:
+8
+Tijdens het bezoek aan de opdrachtgever tekende zij op hoe haar bedrijf in elkaar zit. Ik heb dit overgenomen en verder uitgetekend: Ripple Media House in het midden, daaromheen De Bevrijding 
+en daaromheen allemaal aparte velden \(zoals Blik op diabetes en Anorexia\ gehost worden door mensen uit De Bevrijding. Ook gaf ze uitleg en liet ze zien hoe het eruitziet achter de schermen 
+als je je aansluit bij een van de comunnitys.
+Hierdoor begreep ik eindelijk meer hoe haar bedrijf in elkaar zat. Het bedrijf werkt als een cirkel zonder hi\353rarchie: niemand staat hoger of lager dan een ander, iedereen staat naast elkaar in een 
+ronde beweging. Alle onderdelen worden gehost door iemand van de bevrijding en er ziet een soort social media paltform achter de onderdelen waar je je bij kan aansluiten.
+Ik besloot om deze ronde vormentaal overal in mee te nemen. Van de manier waarop mensen samenkomen tot de vorm van de fysieke ruimtes en water: alles moest rond zijn.
+Dit beantwoordt het ontwerpvraagstuk omdat een ronde opzet gelijkwaardigheid uitstraalt. Bezoekers voelen zich hierdoor direct welkom en gelijk aan elkaar, precies zoals de bedoeling is binnen 
+De Bevrijding.
+BEZOEK OPDRACHTGEVER
+Stream 81:
+9
+EERSTE IDEEEN
+WEBSITE
+Toen de kaders helder waren, ben ik gaan brainstormen. Ik ben op een avond gewoon op mijn kamer gaan staan en hardop gaan zeggen wat er bij me opkwam als ik dacht aan Ripple Media 
+House. Als ik aan een normaal mediahuis denk, zie ik donkere ruimtes met neon en veel apparatuur voor me. Maar bij Ripple zag ik juist lichte kleuren, wit, water en een soort ronde tempel of 
+arena voor me.
+Hieruit ontstonden allerlei idee\353n, zoals water dat trilt door geluid of een installatie waar iedereen een stukje van zichzelf aan toevoegt om samen vanuit een vogelperspectief naar de wereld te 
+begrijpen moet je het zintuiglijk ervaren. Hier ging de opdrachtgever ook het meest op aan tijdens het bezoek.
+Ik koos er daarom voor om te gaan experimenteren met het idee van een fysiek rond gebouw met water in het midden, gecombineerd met geluid uit podcasts.
+Dit experiment hielp om af te stappen van standaard media-oplossingen en een unieke richting in te slaan die draait om beleving en rust.
+Stream 82:
+10
+Nadat ik tijdens de meeting bij de opdrachtgever mijn eerste idee over water en geluid had 
+voorgesteld, ben ik dit concept zelfstandig verder gaan uitwerken op papier. Ik schetste een 
+plattegrond voor een rond gebouw met een centrale waterschaal, een entree en ruimtes 
+eromheen.   
+Tijdens het schetsen dacht ik terug aan wat de opdrachtgever had gezegd: Ze hecht waarde 
+aan stilte. Je moet je eerst helemaal bij jezelf kunnen komen voordat je ervaart van RMH is. 
+Als je direct een volle ruimte instapt, werkt dat minder goed.   
+Daarom ontwierp ik een duidelijke indeling: bij binnenkomst stap je eerst in een stilteruimte 
+om te ontprikkelen en tot jezelf te komen. Pas daarna loop je door naar de grote centrale 
+ronde ruimte met de waterschaal die trilt op 174 Hz. Om die centrale ruimte heen tekende 
+ik een gang met preview-ruimtes waar je een voorproefje kreeg van wat Ripple Media 
+House inhoudt.   
+Door te vari\353ren met deze plattegrond ontdekte ik hoe de route door het gebouw de 
+bezoeker stap voor stap kan begeleiden van stilte naar ervaring en uiteindelijk naar uitleg. 
+En dat visualisatie ervoor zorgt dat het beter begrijpbaar wordt.
+RIPPLE CONCEPT
+Stream 83:
+11   
+Om te onderzoeken hoe geluid water in beweging brengt, ben ik gaan experimenteren met 
+geluidsfrequenties. Ik zocht uit welke tonen een rustgevende trilling gaven en kwam uit op 
+174 Hz. Met een schaal water op een speaker heb ik gekeken hoe het water reageerde op die 
+bastonen.   
+Het experiment liet zien dat 174 Hz niet alleen hele mooie, gelijkmatige rimpels in het water 
+het lichaam.   
+Ik koos er daarom voor om 174 Hz de vaste frequentie te maken voor de centrale 
+waterschaal.   
+Dit experiment bewees dat water en geluid tastbaar gecombineerd konden worden, 
+waardoor de bezoeker het concept van RMH letterlijk kan zien en voelen.
+Omdat zo\222n gebouw in deze fase nog niet tastbaar was, heb ik AI gebruikt om beelden te genereren 
+van de sfeer die ik in mijn hoofd had.   
+De gegenereerde beelden lieten precies zien hoe een lichte, ronde koepelruimte met zandkleuren en 
+een centraal waterbekken aanvoelt als een serene, rustgevende arena. 
+Ik koos ervoor om deze beelden mee te nemen in mijn proces om docenten en de opdrachtgever een 
+duidelijk beeld te geven van de gewenste schaal en rust.   
+Hierdoor werd mijn ruimtelijke idee meteen begrijpelijk en visueel overtuigend voor anderen.
+RIPPLE MET GELUID
+AI BEELDEN
+Stream 86:
+COLLECTIEF 1  |  2025 / 2026 E
+Stream 89:
+12 STILTE HOE VOEL JE JEZELF  SENS ERVARING VAN  ONTDEKKEN WAT RHM IS ERVARING  IS HET IETS VOOR JOU?
+Vanuit mijn plattegrond heb ik individueel een eerste user journey getekend en gepresenteerd: binnenkomen in de 
+stilteruimte, het ondergaan van de sensorische waterervaring in de centrale ruimte, en daarna via de gangen uitleg 
+krijgen over de podcasts en velden.   
+Toen ik het concept samen met Iris pitchten, leverde dat duidelijke feedback op. De centrale sensorische ervaring met 
+de waterschaal werd heel sterk gevonden, maar die ruimtes met uitleg eromheen deden daar juist weer aan af. Het 
+voelde te simpel en afgezaagd om na zo\222n diepe ervaring opeens weer bordjes te lezen.   
+Ik koos ervoor om naar die feedback te luisteren en de hele informatieve omloopbaan te schrappen. Ik besloot het 
+concept volledig te focussen op de centrale ruimte en daar een betekenisvol ritueel van te maken.   
+Deze keuze maakte het ontwerp veel krachtiger, omdat we vertrouwden op de kracht van de beleving zelf in plaats van 
+op extra uitleg.
+USER JOURNEY
+Doordat de focus nu puur op de centrale ruimte lag, kon ik het doel van de reis veel helderder te krijgen: een 
+plek cre\353ren waar je zelf kunt ervaren of Ripple Media House bij jou past of niet.   
+Ik zag in dat mensen geen lappen tekst nodig hebben, maar dat het erom gaat dat ze voelen wat de energie van 
+De Bevrijding met hen doet.   
+Ik koos ervoor om de stappen in de reis puur in te richten rondom stilte, en het ervaren van de ruimte.   
+Dit beantwoordt het ontwerpvraagstuk omdat het een laagdrempelige kennismakingsplek oplevert die de 
+drempel van De Bevrijding verminderd.
+ERVARING EN HET DOEL
+Stream 96:
+13
+UITBREIDING VAN HET IDEE
+VORMGEVING VAN GEBOUW
+Nadat Iris en ik waren samengevoegd omdat we allebei een fysieke ruimte hadden bedacht en we de feedback over de extra 
+uitleg haddeb verwerkt, zijn we samen verder gegaan met het uitwerken van het gebouw. We ontwierpen het Ripple House als 
+een rond koepelgebouw met veel daglicht en de waterschaal precies in het midden en voordat je binnenkomt kom je eerst in de 
+stilte ruimte.   
+gerealiseerd worden in een ronde yurt of een gehuurde arena.   
+We kozen ervoor om het ideaal beeld ui te werken. Een fysiek gebouw met ronde opzet die voor meerdere doeleinden gebruikt 
+kan worden, podcastopnames of bijeenkomsten voor de community.   
+Dit maakt het ontwerp inzichtelijk voor de opdracht gever en weet de opdrachtgever wat eventuele mogelijkheden zijn rondom 
+en binnen ons concept.
+Om de ervaring in de centrale ruimte echt betekenisvol te maken, ben ik gaan brainstormen over een ritueel en 
+kwam ik op het idee van een voorwerp dat oplost in water.   
+Samen met Iris werkten we dit uit: je zet bij binnenkomst een masker op, komt in stilte tot jezelf, doet het masker 
+eigen spiegelbeeld. Dit sloot perfect aan bij de video\222s van De Bevrijding waarin mensen hun masker afzetten voor 
+een spiegel.   
+We kozen ervoor om dit ontmaskeringsritueel het hart van het hele concept te maken.   
+bedenken, maar fysiek uitvoeren.
+Stream 101:
+14
+MASKER ONTWERPEN
+NIEUWE USER JOURNEY
+Rondom dit masker hebben we onze gezamenlijke user journey opgebouwd. We vroegen ons af hoe we mensen naar het gebouw 
+kregen zonder reclame of een social media platform.   
+We bedachten dat leden van De Bevrijding een uitnodiging krijgen en een \221+1\222 mogen meenemen: bijvoorbeeld iemand uit hun 
+omgeving die vastloopt en behoefte heeft aan nieuwe perspectieven.   
+We kozen voor een logische route: binnenkomen in de stilteruimte, het masker opzetten, naar de centrale rimpel lopen, het masker 
+in rust met elkaar na over wat je herkende bij andere of wat je hebt ervaren tijdens deze ervaring.   
+Om te zien hoe dit masker eruit moest zien, ben ik met papier en een schaar gaan testen. Ik knipte vormen en scheurde de gaten voor de ogen uit. Toen 
+ik die gescheurde randen zag, viel het kwartje: scheuren staat voor afpellen.   
+We bedachten dat het masker uit meerdere witte lagen moest bestaan met een binnenste laag van goud. Als je het in het water legt, lossen de witte 
+lagen op en blijft alleen het goud achter. Dit past precies bij de uitspraak van de opdrachtgever: \223Van binnen ben je goud.\224   
+Ik heb verschillende materialen onderzocht die oplosbaas zijn in water. Denk aan suiker, wc papier, eetpapier. Uiteindelijk kozen we voor wateroplosbaar 
+borduurvlies voor de witte buitenkant en goudkleurig materiaal wat zichtbaar blijft maar wel mengt in het water  voor de kern van het masker.   
+Door dit prototype al makend te ontwerpen, hadden we een tastbaar ontwerp dat het transformatieproces van De Bevrijding perfect laat zien en 
+ervaren tijdens het ritueel.
+Deze journey biedt een veilige en persoonlijke manier om nieuwe 
+mensen aan te trekken via een kettingreactie \(ripple\
+Stream 107:
+(ÓR}&HRc	7&IÌuæw¡6-¬¿C]¶ó¤3¢ÃwEQ¯³Ó¥%:Qsô¦&)3­»Ñ:5ë¹ÐÎ¢yFÞúéç¼ReÝ¹êb­läµ* ÖNôXÈKGNq=N°)wa2áA
+Stream 108:
+15
+PRESENTATIE PITCH
+KOPPELING MET DE BEVRIJDING
+Omdat we het gebouw niet op ware grootte konden neerzetten, heb ik in Canva een interactieve pitch 
+gemaakt die zelf als een beleving werkte. 
+Ik wist dat ik een sensorisch concept niet kon overbrengen met alleen het vertellen van het idee. Dus ben ik 
+gaan nadenken over wat manieren zijn om toch het idee op een sensorische manier kan overbrengen.
+Daarom liet ik tijdens de hele presentatie de rustgevende frequentie van 174 Hz horen. Op het moment dat ik 
+liet zien dat het masker in het water werd gelegd, veranderde het geluid mee met de rimpeling van het water. 
+Hierdoor ondergingen de docenten en de opdrachtgever tijdens de presentatie zelf het ritueel, waardoor het 
+idee direct meer tot leven kwam. Wat er dan weer voor zorgde dat het concept beter bleefbaar en begrijpbaar 
+werd.
+Tijdens het ontwerpen merkte ik samen met mijn teamgenoot dat er nog niet echt een stap was van de ervaring in het gebouw naar het \351cht 
+en gouddeeltjes uit de waterschaal gemaakt en meegenomen naar de pitch.   
+Hierdoor begreep ik dat een mooie ervaring snel weer wegzakt als je eenmaal thuis bent. Als je iets echts meeneemt naar huis en op je bureau of 
+nachtkastje zet, zie je het elke dag staan. Het herinnert je telkens weer aan wat je hebt losgelaten en dat je van binnen goud bent.   
+te laten zien. 
+Dit beantwoordt het ontwerpvraagstuk omdat zo\222n simpel aandenken de drempel veel lager maakt om echt mee te doen aan Ripple Media 
+House. De ervaring stopt zo niet bij de uitgang van het gebouw, maar blijft thuis bij je.
+Stream 117:
+16 Kennismaking op school: Bezoek aan haar thuisstudio: Conceptpresentatie op school: Eindpitch:
+CONTACT OPDRACHTGEVER
+Om grip te krijgen op deze vage opdracht heb ik intensief contact onderhouden met de opdrachtgever. Binnen onze groep spraken we af dat \351\351n 
+teamgenoot het vaste aanspreekpunt werd; ik verzamelde mijn vragen samen met de rest in onze groepsapp, waarna onze contactpersoon dit 
+gebundeld doorstuurde naar de opdrachtgever. De opdrachtgever stuurde hierop regelmatig antwoorden en spraakberichten terug, waaronder 
+ Ik presenteerde kort mijn portfolio aan de opdrachtgever. Zij gaf me terug dat ze mij heel gestructureerd vond en dat 
+al mijn werk ontzettend doordacht is, wat eigenschappen waren die ze heel goed kon gebruiken binnen dit open project.   
+ Samen met mijn groep legde ik onze zelfgeschreven debrief aan haar voor om te controleren of we de opdracht 
+goed begrepen. Zij tekende haar cirkelvormige ecosysteem uit en liet haar online community zien. Tijdens dit bezoek pitchte ik individueel mijn 
+eerste idee: water dat trilt door geluid in een fysiek gebouw, gecombineerd met een website voor de vindbaarheid.   
+ Ik presenteerde mijn individuele concept van de fysieke ruimte met de stilteruimte, de centrale waterschaal op 
+174 Hz en de preview-omloop. Omdat Iris ook een fysieke waterervaring had bedacht, koppelde de opdrachtgever ons aan elkaar om vanaf dat 
+moment samen naar het eindontwerp toe te werken.   
+eindbeoordeling. 
+Al deze gesprekken gaven me het inzicht dat ik uit mijn comfortzone moest stappen. Omdat de opdrachtgever puur op gevoel werkte en ik juist vanuit 
+structuur, moest ik mijn drang naar controle loslaten en zelf ook intu\357tiever ontwerpen. Tegelijkertijd merkte ik dat het niet t\351 vaag kon blijven om 
+vooruitgang te boeken. Daarom heb ik tijdens de gesprekken aangegeven dat er knopen doorgehakt moesten worden.   
+Ik koos voor een middenweg: duidelijke kaders scheppen via de debrief en gerichte vragen, maar daarbinnen w\351l op mijn gevoel en intu\357tie vertrouwen 
+bij het ontwerpen rondom water. Toen Iris en ik werden samengevoegd, hebben we die aanpak direct samen doorgezet.   
+Dit heeft me professioneel geleerd hoe je een abstracte opdrachtgever richting geeft z\363nder haar creatieve visie kwijt te raken. Hierdoor werd het 
+Ripple House een doordacht ontwerp dat inhoudelijk klopt en naadloos aansluit bij het gevoel van haar beweging.
+Stream 127:
+17
+ONDERZOEK
+BEELD ONDERBOUWING
+Om te zorgen dat ons idee van water dat geluid aanpast technisch klopte, ben ik online onderzoek gaan doen naar 
+sensor-gestuurde installaties \(sensor based audio installations\cht uit hoe sensoren bewegingen in water 
+kunnen omzetten naar geluidssignalen.   
+Uit dit onderzoek bleek dat dit technisch heel goed mogelijk is met behulp van bewegingssensoren of optische 
+sensoren die gekoppeld zijn aan een audiosysteem.   
+We kozen ervoor om deze technische werking duidelijk uit te leggen in onze presentatie, zodat het niet overkwam als 
+een zweverig idee, maar als een haalbaar installatie-ontwerp.   
+Dit toont aan dat ik methodisch te werk ga: ik bedenk niet alleen een mooi concept, maar zoek ook professioneel uit 
+hoe het in de praktijk gebouwd kan worden.
+Voor de presentatie gebruikten Iris en ik eerst vooral AI-beelden, maar na feedback van docenten ben ik extra 
+handmatige schetsen gaan maken. Ik tekende het concept van de ripple met het trillende, gouden water en een schets 
+over de link tussen mens en water \(je lichaam bestaat voor 65% en je brein voor 80% uit water\ze schetsen nam ik 
+fysiek op papier mee naar de pitch.   
+Hierdoor begreep ik dat AI-beelden heel kil en te af kunnen overkomen, terwijl onze opdrachtgever juist erg op gevoel 
+te houden. Ook in de pitch wprdkshop werd duidlijk gemaakt dat je tijdens je pitch moet inspelen op je publiek. In dit 
+geval dus de opdrachtgever.   
+Daarom koos ik ervoor om onze keuzes visueel te onderbouwen met mijn eigen papieren schetsen tijdens de pitch.   
+Dit zorgde voor een veel betere aansluiting op haar manier van denken en communiceren. Door het proces menselijk te 
+houden kwam het idee beter aan, omdat dit past bij haar manier van werken.
+Stream 132:
+18 INSCANNEN
+Om al mijn gemaakte schetsen en processtappen goed te kunnen presenteren, heb ik ze ingescand en in Adobe Illustrator overgetrokken 
+en omgezet naar strakke vectorbestanden. Vervolgens heb ik in InDesign de sheets voor de tussentijdse pitches en de pagina\222s voor dit 
+groeidocument opgemaakt.   
+Tijdens het ontwerpen merkte ik dat handgetekende schetsen op papier in een digitaal document of op een beeldscherm al snel rommelig of 
+vlekkerig kunnen overkomen. Door er vectorbestanden van te maken, verdwijnen de potloodlijnen en het papier op de achtergrond, terwijl je 
+eigen handschrift en stijl wel helemaal bewaard blijven.   
+Ik koos er daarom voor om alle schetsen systematisch te digitaliseren naar vectoren. Hierdoor kon ik ze heel strak en clean combineren met 
+de teksten en de sfeerbeelden in InDesign.   
+Dit zorgde voor een professionele presentatie van mijn proces. Zowel de docenten als de opdrachtgever kregen zo een document waarin alle 
+tussenstappen en idee\353n duidelijk, verzorgd en perfect leesbaar zijn.
+APPS
+Tijdens het proces heb ik verschillende digitale programma\222s gecombineerd: Gemini voor het genereren van 
+sfeerbeelden, Adobe Illustrator voor het omzetten van mijn schetsen naar vectoren, Canva voor de interactieve pitch 
+met geluid, en InDesign voor het opmaken van de documenten.   
+Hierdoor zag ik dat elk programma een eigen functie heeft: AI hielp om snel een visuele sfeer neer te zetten, terwijl 
+Illustrator, Canva en InDesign juist zorgden voor controle, een strakke afwerking van het conept en een duidelijke 
+presentatie.   
+Daarom koos ik ervoor om deze programma\222s doelgericht in te zetten. Sfeerbeelden maken met AI, mijn eigen 
+schetsen digitaliseren in Illustrator en alles strak samenbrengen in InDesign en Canva.  
+Dit zorgde ervoor dat het hele ontwerpproces professioneel, overzichtelijk en visueel helder kon worden 
+overgedragen aan de docenten en de opdrachtgever.
+Stream 146:
+19
+PRESENTATIE PITCH
+Tijdens een tussentijdse pitch heb ik samen met Iris onze eerste opzet gepresenteerd aan de docenten. We lieten het 
+idee zien van de centrale waterschaal met de gangen en preview-ruimtes eromheen.   
+De docenten gaven duidelijke feedback: ze vonden de ervaring met het water in het midden heel sterk, maar vonden 
+de ruimtes met uitleg eromheen veel te ingewikkeld. Het voelde raar en saai om na zo\222n rustige ervaring ineens weer 
+bordjes te gaan lezen. Hierdoor begreep ik dat professioneel werken ook betekent dat je kritsch kijkt naar de kritiek 
+en je idee simpeler moet durven maken.   
+Daarom kozen we ervoor om meteen te schakelen: we hebben alle ruimtes met uitleg weggelaten en zijn diezelfde 
+week gaan brainstormen over een ritueel in de centrale ruimte. Zo kwamen we uiteindelijk op het idee van het 
+masker.   
+Door deze feedback van de docenten serieus te nemen en meteen te verwerken, werd ons concept niet onnodig 
+moeilijk, maar juist veel duidelijker en krachtiger.
+EIND PITCH
+Voor de eindpitch hebben we een presentatie gemaakt waarin we het idee niet alleen vertelden, maar ook echt 
+lieten horen en voelen aan de opdrachtgever en docenten. We lieten de slides precies meelopen met de stappen 
+Hierdoor zag ik in dat een goede presentatie meer is dan alleen een concept uitleg: je moet de opdrachtgever 
+echt meenemen in de sfeer, zodat zij meteen snapt waarom onze keuzes passen bij haar bedrijf. Door beelden, 
+geluid en echte schetsen te combineren, werd het idee meteen duidelijk en geloofwaardig.   
+Ik koos er bewust voor om de presentatie zo op te bouwen dat de sfeer, de uitleg en de techniek elkaar 
+versterkten.   
+Hierdoor was de opdrachtgever meteen heel enthousiast en zag ze ons idee direct voor zich binnen haar eigen 
+beweging. Ook gaf ze terug dat ze de frequentie echt voelde waardoor het concept echt binnen kwam. Dit liet 
+zien hoe belangrijk het is om een vaag idee op een duidelijke en tastbare manier te presenteren.
+Stream 161:
+COLLECTIEF 1  |  2025 / 2026 EXPERIMENTEREN \225   \225   \225   \225   IK HEB DIT GEDAAN \205    \225   DAT LEVERDE DIT INZICHT \205    \225   DAAROM MAAKTE IK DEZE KEUZE \205    \225   DAT BEANTWOORDT HET  ONTWERPVRAAGSTUK OMDAT \205    E
+Idee\353n genereren 
+Conceptualiseren  
+Prototyperen  
+Wanneer je gedurende je ontwerpproces:
+Door het doen van experimenten 
+een breedte aan idee\353n genereert en 
+visualiseert. 
+Testbare prototypes cre\353ert die 
+ontwerprichtingen vormgeeft en 
+materialiseert. 
+Je experimenten weet te vertalen naar een 
+creatief concept.
+Stream 170:
+COLLECTIEF 1  |  2026 / 2026 PROFESSIONEEL HANDELEN Regie voeren  \225   \225   \225   \225   IK HEB DIT GEDAAN \205    \225   DAT LEVERDE DIT INZICHT \205    \225   DAAROM MAAKTE IK DEZE KEUZE \205    \225   DAT BEANTWOORDT HET  ONTWERPVRAAGSTUK OMDAT \205    P
+Communiceren & samenwerken 
+Methodisch werken 
+Wanneer je gedurende je ontwerpproces:
+Relevante activiteiten kunt plannen en 
+organiseren. 
+Peers, professionals en betrokkenen 
+meeneemt in je ontwerpproces. 
+Vaardigheden, methodieken en theorie\353n 
+inzet en de waarde hiervan kunt duiden. 
+Stream 175:
+COLLECTIEF 1  |  2025 / 2026 K
+Stream 180:
+COLLECTIEF 1  |  2025 / 2026 M

@@ -1,0 +1,122 @@
+{
+  "card_sieraden": [
+    1200,
+    900
+  ],
+  "card_stop": [
+    1200,
+    900
+  ],
+  "card_can": [
+    1200,
+    900
+  ],
+  "card_whip": [
+    1200,
+    900
+  ],
+  "can_mockup": [
+    1800,
+    1350
+  ],
+  "blikwrap": [
+    2400,
+    1730
+  ],
+  "schetsencollage": [
+    1800,
+    1128
+  ],
+  "schetsen_vuur_bubbels": [
+    1800,
+    1169
+  ],
+  "moodboard": [
+    769,
+    1155
+  ],
+  "schetsen_vier_blikken": [
+    1800,
+    1570
+  ],
+  "blik_voor": [
+    682,
+    1200
+  ],
+  "blik_achter": [
+    835,
+    1200
+  ],
+  "poster_deconstructie": [
+    1698,
+    2400
+  ],
+  "poster_positionering": [
+    1698,
+    2400
+  ],
+  "sieraden01": [
+    1327,
+    1800
+  ],
+  "sieraden03": [
+    1327,
+    1800
+  ],
+  "sieraden02": [
+    1800,
+    1298
+  ],
+  "sieraden04": [
+    1800,
+    1298
+  ],
+  "stop-mindmap": [
+    1800,
+    797
+  ],
+  "stop-stap1-mindmap": [
+    1226,
+    1800
+  ],
+  "stop-stap2-tekst-vs-beeld": [
+    1745,
+    951
+  ],
+  "stop-stap2-schetsen-beeld": [
+    1714,
+    792
+  ],
+  "stop-stap3-ai-verkenning": [
+    1358,
+    1800
+  ],
+  "stop-stap4-formuleren-posters": [
+    1474,
+    1649
+  ],
+  "stop-stap5-experimenteren-schetsen": [
+    1325,
+    1800
+  ],
+  "stop-stap6-kleur-iteraties": [
+    1800,
+    1363
+  ],
+  "stop-stap6-definitieve-opbouw": [
+    605,
+    1740
+  ],
+  "stop-poster-definitief": [
+    1714,
+    2400
+  ],
+  "whiplash-stap1-mindmap": [
+    1324,
+    1032
+  ],
+  "whiplash-stap2-storyboard": [
+    1387,
+    1026
+  ]
+}
